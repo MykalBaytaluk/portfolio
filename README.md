@@ -11,3 +11,7 @@ My name is Mykal Baytaluk, I am an artistic designer that cares about your proje
 - [instagram](https://www.instagram.com/mykal.co/)
 - [linkedin](https://ca.linkedin.com/in/mykalbaytaluk)
 - [email](mykalbaytaluk@gmail.com)
+
+---
+
+© Mykal Baytaluk
