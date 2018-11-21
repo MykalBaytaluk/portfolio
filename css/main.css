@@ -17,7 +17,7 @@ small {
 
 h1,
 h2 {
-  color: pink;
+  color: white;
 }
 
 .background-image {
@@ -28,16 +28,30 @@ h2 {
 }
 
 a {
-  color: lightblue;
+  color: blue;
+}
+
+.hero-button {
+  color: white;
+}
+
+.myk-logo {
+  text-decoration: none;
 }
 
 .cover-photo {
   max-height: 300px;
   overflow: hidden;
+  align-content: center;
+
 }
 
 footer {
-  background-color: lightblue;
+  background-color: blue;
+}
+
+h6 {
+  color: white;
 }
 
 /* div,
@@ -45,3 +59,11 @@ img {
   max-height: 900px;
   overflow: visible, hidden, scroll, auto, inherit;
 } */
+
+@media only screen and (min-width: 100em) {
+
+  .cover-photo {
+    max-height: 500px;
+  }
+
+}
