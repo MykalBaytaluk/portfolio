@@ -16,6 +16,14 @@ a {
   font-family: 'Roboto', sans-serif;
 }
 
+.header-p {
+  color: white;
+}
+
+.nav-btn {
+  font-family: 'Roboto', sans-serif;
+}
+
 h1,
 h2 {
   color: white;
@@ -32,11 +40,10 @@ h2 {
   margin: auto;
   max-width: 75%;
   vertical-align: middle;
-
 }
 
 a {
-  color: blue;
+  color: navy;
 }
 
 .hero-button {
@@ -51,11 +58,26 @@ a {
   max-height: 300px;
   overflow: hidden;
   align-content: center;
+}
 
+.btn {
+  background-color: navy;
+  border-color: navy;
+  border-width: 2px;
+  text-decoration: none;
+  color: white;
+  border-radius: 42px;
+  vertical-align: middle;
+}
+
+.btn:hover {
+  background:rgba(0,0,0,0.01);
+  border-color: navy;
+  color: navy;
 }
 
 footer {
-  background-color: blue;
+  background-color: navy;
 }
 
 .foot {
