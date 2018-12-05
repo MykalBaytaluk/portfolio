@@ -76,12 +76,48 @@ a {
   color: navy;
 }
 
+.nav-hover {
+  text-decoration: none;
+}
+
+.nav-hover:hover {
+  color: red;
+}
+
+.current {
+  color: red;
+}
+
 footer {
   background-color: navy;
 }
 
 .foot {
   color: white;
+}
+
+.color-404 {
+  background-color: black;
+}
+
+.nav404 {
+  background-color: white;
+}
+
+.white-text {
+  color: white;
+}
+
+.btn404{
+  background-color: white;
+  color: navy;
+  border-color: white;
+}
+
+.btn404:hover  {
+  background-color: red;
+  color: white;
+  border-color: red;
 }
 
 /* div,
